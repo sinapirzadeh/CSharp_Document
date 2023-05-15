@@ -1,0 +1,16 @@
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Nomre_Re.exe.config
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Nomre_Re.exe
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Nomre_Re.pdb
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\BunifuDataViz.dll
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Bunifu.Core.dll
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\BunifuDataViz.xml
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.csprojAssemblyReference.cache
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.exe.config
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.Form1.resources
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.Properties.Resources.resources
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.csproj.GenerateResource.cache
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.csproj.CopyComplete
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.exe
+C:\Users\Kani\source\repos\Nomre_Re\Nomre_Re\obj\Debug\Nomre_Re.pdb
